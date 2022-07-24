@@ -41,3 +41,4 @@ for root, dirs, files in os.walk(path_dir):
             add_sub_file(os.path.join(root, file))
 add_sub_file(r"D:\LEARNING\[04-2022] complete-python-developer-zero-to-mastery\03 Python Basics\026 Variables.en_US.srt")
 
+
